@@ -6,7 +6,7 @@
 
 A web application that analyzes chess games (PGN format) to detect potential engine assistance using Stockfish.
 
-[Live Demo](#) | [Report Bug](https://github.com/AKPrajapati9211/chess-engine-detector/issues)
+[Report Bug](https://github.com/AKPrajapati9211/chess-engine-detector/issues)
 
 ## Features
 
