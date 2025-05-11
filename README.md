@@ -19,8 +19,8 @@ A web application that analyzes chess games (PGN format) to detect potential eng
 
 ## Screenshots
 
-![Analysis Page](screenshots/screenshot1.png)
-![Results Page](screenshots/screenshot2.png)
+![Analysis Page](Screenshot1.png)
+![Results Page](Screenshot2.png)
 
 ## Setup
 
