@@ -1,4 +1,4 @@
-# Chess Engine Detector
+# Chess Cheat Detector
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/flask-2.0%2B-lightgrey)
@@ -6,7 +6,7 @@
 
 A web application that analyzes chess games (PGN format) to detect potential engine assistance using Stockfish.
 
-[Report Bug](https://github.com/AKPrajapati9211/chess-engine-detector/issues)
+[Report Bug](https://github.com/AKPrajapati9211/chess-cheat-detector/issues)
 
 ## Features
 
@@ -37,8 +37,8 @@ A web application that analyzes chess games (PGN format) to detect potential eng
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chess-engine-detector.git
-    cd chess-engine-detector
+    git clone https://github.com/AKPrajapati9211/chess-cheat-detector.git
+    cd chess-cheat-detector
 
 2. Install dependencies:
 
