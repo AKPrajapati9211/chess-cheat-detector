@@ -60,7 +60,7 @@ Update Stockfish path in app.py:
 
     ```bash
     python app.py
--Visit http://localhost:5000 in your browser
+- Visit http://localhost:5000 in your browser
 
 ### Contributing
 Contributions are welcome! Please follow these steps:
