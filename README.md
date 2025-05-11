@@ -43,21 +43,21 @@ A web application that analyzes chess games (PGN format) to detect potential eng
 
 3. Download Stockfish:
 
--Visit stockfishchess.org
+- Visit stockfishchess.org
 
--Extract the executable to /stockfish folder
+- Extract the executable to /stockfish folder
 
 ### Configuration
 Update Stockfish path in app.py:
 
-    ```python
     STOCKFISH_PATH = os.path.join(
         os.path.dirname(__file__), 
         "stockfish", 
         "stockfish-windows-x86-64-avx2.exe"  
     )
 ### Usage
--Running Locally
+- Running Locally
+
     ```bash
     python app.py
 -Visit http://localhost:5000 in your browser
@@ -65,12 +65,12 @@ Update Stockfish path in app.py:
 ### Contributing
 Contributions are welcome! Please follow these steps:
 
--Fork the project
+- Fork the project
 
--Create your feature branch (git checkout -b feature/AmazingFeature)
+- Create your feature branch (git checkout -b feature/AmazingFeature)
 
--Commit your changes (git commit -m 'Add some AmazingFeature')
+- Commit your changes (git commit -m 'Add some AmazingFeature')
 
--Push to the branch (git push origin feature/AmazingFeature)
+- Push to the branch (git push origin feature/AmazingFeature)
 
--Open a Pull Request
+- Open a Pull Request
