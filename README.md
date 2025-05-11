@@ -17,6 +17,10 @@ A web application that analyzes chess games (PGN format) to detect potential eng
 - Interactive results visualization
 - Responsive web interface
 
+## Workflow Diagram
+
+![Workflow Diagram](screenshot3.png)
+
 ## Screenshots
 
 ![Analysis Page](Screenshot1.png)
